@@ -45,4 +45,9 @@ body {
     border-radius: 7px;
   }
 
-
+@media screen and (max-width : 500px ){
+	.stati {
+		display:flex;
+	}
+	
+}
