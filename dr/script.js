@@ -28,17 +28,17 @@ const monsters = [
   {
     name: "slime",
     level: 2,
-    health: 15
+    health: 30
   },
   {
     name: "fanged beast",
     level: 8,
-    health: 60
+    health: 90
   },
   {
     name: "dragon",
     level: 20,
-    health: 300
+    health: 800
   }
 ]
 const locations = [
